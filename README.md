@@ -7,8 +7,13 @@ Link to the data sheet:
 https://docs.google.com/spreadsheets/d/1hfLxRmMwhd4Pa5tXfjiEVgP7JZPAq_MP4LY_-WhHbQo/edit?usp=sharing  
 
   # Creating the dataset:
-    First and Last names: First, I generated 7000 rows of first and last names using ChatGPT. 
-    Legal Gender: Then, I prompted ChatGPT to add another column named "Legal Gender" and fill it up with values of either Male or Female, but restricting the total number of males to be 42% of the total population. The reference to this statistic has been taken from PewResearch.    Link: https://www.pewresearch.org/short-reads/2023/12/18/fewer-young-men-are-in-college-especially-at-4-year-schools/#:~:text=Today%2C%20men%20represent%20only%2042,balance%20has%20not%20changed%20much.
+  First and Last names: First, I generated 7000 rows of first and last names using ChatGPT. 
+  Legal Gender: Then, I prompted ChatGPT to add another column named "Legal Gender" and fill it up with values of either Male or Female, but restricting the total number of males to be 42% of the total population. The reference to this statistic has been taken from PewResearch.    
+  Link: https://www.pewresearch.org/short-reads/2023/12/18/fewer-young-men-are-in-college-especially-at-4-year-schools/#:~:text=Today%2C%20men%20represent%20only%2042,balance%20has%20not%20changed%20much.
+  Then I created a column Enrollment Year, Graduation Year, Dropout Year, and Ethnicity. The values for thesehave been filled using the statistics given in the links below:
+  https://nscresearchcenter.org/stay-informed/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhP1AXzynXaJQIne75yupaH8g9G-kB11tOMv-JS1GHuxaeeI-zFMWHUaAsjnEALw_wcB
+  https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States
+  
     
 Characterizing SAT scores:  https://www.kaptest.com/study/sat/whats-a-good-sat-score/#:~:text=What%20Is%20a%20Good%20SAT%20Score%3F%20%282023-2024%29%201,is%20the%20maximum%20score%20of%201600.%20More%20items
   Three categories:  Below average (0) : Less than 1028 (according to the average scores of 2023),  Above average (1): 1028-1600   
