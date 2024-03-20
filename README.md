@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/1hfLxRmMwhd4Pa5tXfjiEVgP7JZPAq_MP4LY_-WhH
     
  Link to income status: https://www.census.gov/library/publications/2023/demo/p60-279.html  
 
-  Characterizing Pell Grant Status:  Potential Pell Grant Recipient (1) : Annual Family Income less than $60,000, Non-Pell Grant Recipient (0) : Annual Family income more than $60,000  
+  Characterizing Pell Grant Status:  Potential Pell Grant Recipient (Y) : Annual Family Income less than $30,000, Non-Pell Grant Recipient (N) : Annual Family income more than $60,000, May/May not rfeceive Pell Grant Status (DN): Annual Income between $30,000 and $60,000  
     
   Link to the major selection: https://marymount.edu/academics/majors-programs/
 
